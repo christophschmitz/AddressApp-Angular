@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@angular-eslint/eslint-plugin": "^12.6.0"
+  }
+}
