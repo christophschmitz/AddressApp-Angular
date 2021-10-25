@@ -1,0 +1,33 @@
+.container {
+  height: 70px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3rem;
+}
+
+.logo {
+  width: 200px;
+}
+
+.addButton {
+  all: unset;
+  width: 10rem;
+  height: 3rem;
+  background: #fff;
+  border: 2px solid #6250cf;
+  color: #6250cf;
+  border-radius: 7px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 300ms;
+}
+
+.addButton:hover {
+  background: linear-gradient(265.36deg, #7761fe 6.77%, #6250cf 100%);
+  color: #fff;
+}
