@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular-eslint/eslint-plugin": "^12.6.0",
+    "prettier": "^2.4.1"
+  }
+}
